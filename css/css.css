@@ -1,0 +1,18 @@
+ul,li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#uu li{
+	width: 30px;
+	height: 30px;
+	background: cadetblue;
+	border: 1px solid red;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	line-height: 30px;
+}
+#uu .active{
+	border-radius:50%;
+}
